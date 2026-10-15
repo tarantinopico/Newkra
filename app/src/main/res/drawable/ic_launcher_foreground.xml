@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glow circle around icon -->
+    <path
+        android:fillColor="#1A30D158"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    <!-- Botanical Leaf Silhouette in Emerald Green -->
+    <path
+        android:fillColor="#30D158"
+        android:pathData="M54,26 C40,32 32,46 34,62 C35,70 41,77 49,81 C51,82 53,82 54,80 C55,78 54,73 54,70 C54,52 64,38 74,34 C72,46 66,58 56,66 C53,68 53,72 55,73 C57,74 61,72 64,69 C74,59 78,44 76,32 C74,27 64,24 54,26 Z" />
+    <!-- Leaf stem & central vein in crisp mint -->
+    <path
+        android:fillColor="#64D2FF"
+        android:pathData="M53,50 C57,45 64,41 70,39 C70,41 64,47 55,54 C54,55 54,58 53,68 C52.5,73 51,82 50,84 C49,86 47,85 48,82 C49,78 51,70 52,60 Z" />
+</vector>

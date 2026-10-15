@@ -1,0 +1,6 @@
+{
+  "name": "Kratom Tracker",
+  "description": "Komplexní nativní sledovač užívání kratomu, farmakokinetiky a zásob v AMOLED Dark stylu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
