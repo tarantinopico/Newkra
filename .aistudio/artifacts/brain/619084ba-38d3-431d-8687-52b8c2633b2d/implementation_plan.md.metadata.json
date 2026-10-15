@@ -1,6 +1,6 @@
 {
-  "summary": "Plán rozšíření aplikace: detailní konfigurace všech farmakokinetických a matematických konstant v Nastavení, zaoblené srovnávací badge tagy (vs. včerejšek a 7D průměr) na Dashboardu a obohacení grafů o detailní hodnoty a vodící linky.",
-  "updatedAt": "2026-10-15T08:56:04.102846827Z",
+  "summary": "Implementační plán pro GitHub Actions CI/CD workflow, které automaticky zkompiluje aplikaci do instalačního Debug APK balíčku při pushi do větve main i ručním spuštění, a uloží APK jako stažitelný artefakt.",
+  "updatedAt": "2026-10-15T10:05:34.010056876Z",
   "requestFeedback": true,
   "userFacing": true
 }
